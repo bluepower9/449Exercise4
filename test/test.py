@@ -1,7 +1,2 @@
-print('hello world')
-print('test1')
-print('test2')
-print('test3')
-print('test4')
-print('test5')
-print('test6')
+def test1():
+    assert 1 == 1
